@@ -22,7 +22,7 @@ $url_path = str_replace('\\', '/', $url_path);
 <div class="how-section1">
                 <div class="row">
                     <div class="col-md-6 how-img">
-                        <img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt=""/>
+                        <a href="#"><img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt=""/></a>
                     </div>
                     <div class="col-md-6">
                         <a href="#">

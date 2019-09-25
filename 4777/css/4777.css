@@ -1,16 +1,4 @@
 @import "../../var/var.less";
-.how-section1 .row .col-md-6 a {
-  text-decoration: none;
-}
-.how-section1 .row .col-md-6 a h4:hover {
-  color: #bd7b03;
-}
-.how-section1 .row .col-md-6 a .subheading {
-  text-decoration: none;
-}
-.how-section1 .row .col-md-6 a .subheading:hover {
-  color: #140e71;
-}
 .how-section1 {
   margin-top: -15%;
   padding: 10%;
@@ -26,6 +14,18 @@
 }
 .how-section1 .row {
   margin-top: 10%;
+}
+.how-section1 .row .col-md-6 a {
+  text-decoration: none;
+}
+.how-section1 .row .col-md-6 a h4:hover {
+  color: #bd7b03;
+}
+.how-section1 .row .col-md-6 a .subheading {
+  text-decoration: none;
+}
+.how-section1 .row .col-md-6 a .subheading:hover {
+  color: #140e71;
 }
 .how-img {
   text-align: center;
