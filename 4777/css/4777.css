@@ -1,0 +1,42 @@
+@import "../../var/var.less";
+.type-4777 .container {
+  margin-top: -15%;
+  padding: 10%;
+}
+.type-4777 .container h4 {
+  color: #ffa500;
+  font-weight: bold;
+  font-size: 30px;
+}
+.type-4777 .container .subheading {
+  color: #3931af;
+  font-size: 20px;
+}
+.type-4777 .container .row {
+  margin-top: 10%;
+}
+.type-4777 .container .row .col-md-6 a {
+  text-decoration: none;
+}
+.type-4777 .container .row .col-md-6 a img:hover {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+}
+.type-4777 .container .row .col-md-6 a h4:hover {
+  color: #bd7b03;
+}
+.type-4777 .container .row .col-md-6 a .subheading {
+  text-decoration: none;
+}
+.type-4777 .container .row .col-md-6 a .subheading:hover {
+  color: #140e71;
+}
+.how-img {
+  text-align: center;
+}
+.how-img img {
+  width: 40%;
+}
